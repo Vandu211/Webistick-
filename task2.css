@@ -1,0 +1,56 @@
+body{
+       background-color: #010424;
+       
+    }
+
+#Heading
+{
+
+    width: 629px;
+    height: 97px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    text-align: center;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+}
+
+.Que
+{
+    display: flex;
+    width: 417px;
+    height: 24px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    margin-left: 50px;
+    line-height: 24px; /* 120% */
+}
+.Sub-Text
+{
+    display: flex;
+    width: 417px;
+    height: 24px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 900;
+    margin-left: 50px;
+    line-height: 24px; /* 120% */
+}
+.Image
+{
+    margin-left: 50px;
+}
